@@ -1,0 +1,17 @@
+{
+  "name": "netflixapi",
+  "version": "1.0.0",
+  "description": "this is the api for our netflix clone",
+  "main": "index.js",
+  "scripts":{
+    "auto": "npx nodemon server.js"
+    },
+  "author": "hassan khan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  } 
+}
